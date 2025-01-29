@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de San Valentín</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            padding: 20px;
+        }
+        h1 {
+            color: #d5006d;
+        }
+        h2 {
+            color: #3f51b5;
+        }
+        p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌸 Página de San Valentín 🌸</h1>
+    <h2><strong>¿Quieres ser mi San Valentín?</strong></h2>
+    <p>En un jardín de sueños florece, cada pétalo un susurro que mece. Tus ojos son estrellas en el cielo, tu risa, un dulce canto en el vuelo.</p>
+    <p>Las flores danzan al compás del viento, y en cada latido, te siento en mi aliento. Eres la luz que ilumina mi andar, mi razón de amar, mi hogar, mi mar.</p>
+    <hr>
+    <p>🌷🌼🌺🌻🌹</p>
+    <p><strong>¡Feliz San Valentín!</strong></p>
+</body>
+</html>
